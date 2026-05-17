@@ -554,3 +554,7 @@ footer em { color: var(--teal); font-style: normal; }
   transition: transform .2s;
 }
 .cv-main-btn:hover .cv-btn-arrow { transform: translate(2px, -2px); }
+
+/* ── JOURNAL DE STAGE — texte blanc, strong blanc gras ── */
+.j-week p { color: var(--t1) !important; }
+.j-week strong { color: var(--t1) !important; font-weight: 700; }
